@@ -1,5 +1,5 @@
 .partenaire{
-   background-color: blueviolet; 
+   background-color: #272D51; 
     text-align: center;
     text-transform: uppercase;
     color:white;
@@ -7,8 +7,10 @@
     width: 200px;
     height:50px;
     z-index:5;
-    bottom:50px;
+     position: absolute;
+    
 }
+
 
 .footer {
     background-color: #272D51;
