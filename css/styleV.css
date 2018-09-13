@@ -1,0 +1,54 @@
+body{
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+#header-menu{
+    background-color:#272d51;
+    height: 50px;
+    color:white;
+    font-weight: bold;
+    
+}
+
+#header-menu>div{
+    text-align: center;
+    vertical-align: middle;
+}
+
+#logo-header{
+    width: 12%;
+}
+
+#header-bandeau-site{
+    background-image: url('../images/homepage1.jpg');
+    background-size: auto;
+    background-position: center;
+    height: 35em;
+   
+    
+}
+
+#header-bandeau-site>div{
+    text-align: center;
+    
+
+}
+
+#header-bandeau-site>div>span{
+    
+    color: #272d51;
+    
+}
+
+#fake-logo{
+    font-weight: bold;
+    font-size: 60px;
+}
+
+#big-s{
+   font-size: 80px !important; 
+}
+
+#site-subtitle{
+    font-size: 50px;
+}
