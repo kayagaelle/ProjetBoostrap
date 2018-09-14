@@ -36,14 +36,43 @@ h2 {
     color:white;
     font-weight: bold;
 }
-.divImg {
+.divImg1 {
     
         background-image: url('../images/sol1.png');
-    background-size: auto;
+    background-size: cover;
     background-position: center;
     height:300px;
 }
 .divImg p{
+    
+   color:#272D51;
+    padding-top: 5rem;
+    line-height: 10px;
+}
+.row p{
+    
+    color:#272D51;
+}
+.divImg2 {
+    
+     background-image: url('../images/sol2.png');
+    background-size: cover;
+    background-position: center;
+    height:400px;
+}
+.divImg2 p{
+    
+   color:#272D51;
+    padding-top: 5rem;
+}
+.divImg3 {
+    
+     background-image: url('../images/sol3.png');
+    background-size: cover;
+    background-position: center;
+    height:400px;
+}
+.divImg3 p{
     
    color:#272D51;
     padding-top: 5rem;
