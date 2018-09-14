@@ -23,7 +23,7 @@ body{
     background-image: url('../images/homepage1.jpg');
     background-size: auto;
     background-position: center;
-    height: 35em;
+    height: 34em;
    
     
 }
@@ -52,3 +52,112 @@ body{
 #site-subtitle{
     font-size: 50px;
 }
+
+.partenaire>span{
+    position: absolute;
+    top:20%;
+    left:20%;
+}
+
+.analyse>span{
+    position: absolute;
+    top:20%;
+    left:20%;
+}
+
+
+
+#bandeau-accueil-1{
+    background-image: url('../images/bloc1.png');
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+#bandeau-accueil-2{
+    background: 
+        /* top, transparent red, faked with gradient */ 
+        linear-gradient(
+          rgba(161, 213, 211, 0.75), 
+          rgba(161, 213, 211, 0.75)
+        ),
+        /* bottom, image */
+        url('../images/bloc2.png');
+ 
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+#bandeau-accueil-3{
+     background: 
+        /* top, transparent red, faked with gradient */ 
+        linear-gradient(
+          rgba(213, 185, 112, 0.75), 
+          rgba(213, 185, 112, 0.75)
+        ),
+        /* bottom, image */
+       url('../images/bloc3.png');
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+#bandeau-accueil-3>div>img{
+    height: 260px;
+}
+
+
+
+
+.analyse{
+   background-color: #272D51; 
+    text-align: center;
+    text-transform: uppercase;
+    color:white;
+    border :3px solid white;
+    width: 400px;
+    height:50px;
+    z-index:5;
+    position: absolute;
+    
+}
+
+#infos-services>div{
+    height: 2em;
+    border-left: 5px solid #272D51;
+    background-color: white;
+    color:#272D51;
+    font-size:25px;
+    margin-top: 5px;
+    margin-bottom:5px;
+    margin-right:5px;
+    padding: 1%;
+    padding-left: 4%;
+        
+
+}
+
+#infos-services{
+    padding-top: 7em;
+    padding-bottom: 7em;
+}
+
+#text-accueil{
+    background-color: white;
+    padding: 2em;
+    color:#272D51;
+    
+}
+
+#text-accueil>h2{
+    font-weight: bold;
+}
+#text-accueil>p{
+    font-size: 14px
+}
+
+
+
