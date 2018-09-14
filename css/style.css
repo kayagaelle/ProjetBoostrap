@@ -30,12 +30,24 @@ h2 {
 
 }
 
+
 #btn_envoi {
     background-color:  #272D51 ;
     color:white;
     font-weight: bold;
 }
-
+.divImg {
+    
+        background-image: url('../images/sol1.png');
+    background-size: auto;
+    background-position: center;
+    height:300px;
+}
+.divImg p{
+    
+   color:#272D51;
+    padding-top: 5rem;
+}
 
 .footer {
     background-color: #272D51;
