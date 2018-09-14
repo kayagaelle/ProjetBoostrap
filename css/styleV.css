@@ -148,7 +148,9 @@ body{
 
 #text-accueil{
     background-color: white;
-    padding: 2em;
+    padding: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
     color:#272D51;
     
 }
