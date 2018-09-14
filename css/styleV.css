@@ -193,7 +193,8 @@ a{
     background-image: url('../images/sol4.png');
     background-size: contain;
     background-position: center;
-    height:420px;
+    height:423px;
+    border: 1px solid lightgrey;
 }
 
 
@@ -221,6 +222,10 @@ a{
 #titre{
     padding-top: 1em;
     padding-bottom: 1em;
+}
+
+.anchor{
+    padding-top: 2em;
 }
 
 
