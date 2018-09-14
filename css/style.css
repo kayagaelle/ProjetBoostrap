@@ -10,6 +10,31 @@
      position: absolute;
     
 }
+/* Formulaire */
+
+
+.form-group , .containerForm p , .containerForm h2 , {
+    justify-content: center;
+    
+}
+.containerForm {
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+}
+
+h2 ,label ,.containerForm p {
+    color:#272D51;
+}
+h2 {
+        font-weight: bold;
+
+}
+
+#btn_envoi {
+    background-color:  #272D51 ;
+    color:white;
+    font-weight: bold;
+}
 
 
 .footer {
@@ -33,7 +58,7 @@ nav a:visited {
     text-decoration: none;
     color:white;
 }
-.adresse
+.adresse 
 {
     display: inline-grid;
     color:white;
