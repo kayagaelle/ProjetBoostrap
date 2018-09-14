@@ -1,2 +1,2 @@
-Gaelle : Footer de la page , Page de formulaire.
-Vassilen : Header de la page , page d'accueil.
+Gaelle : Footer de la page , Page de formulaire , page "nos_solutions".
+Vassilen : Header de la page , page d'accuei, page "nos_solutions".
