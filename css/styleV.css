@@ -122,6 +122,7 @@ body{
     height:50px;
     z-index:5;
     position: absolute;
+    font-weight: bold;
     
 }
 
